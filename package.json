@@ -1,0 +1,47 @@
+{
+  "name": "@zakkster/lite-physics",
+  "author": "Zahary Shinikchiev <shinikchiev@yahoo.com>",
+  "version": "1.0.0",
+  "description": "Spring-based DOM animation with velocity handoff. Magnetic hover, draggable cards, Tinder-style swipe. Shared ticker, zero rAF spam.",
+  "type": "module",
+  "main": "Physics.js",
+  "types": "Physics.d.ts",
+  "exports": {
+    ".": {
+      "types": "./Physics.d.ts",
+      "import": "./Physics.js",
+      "default": "./Physics.js"
+    }
+  },
+  "files": [
+    "Physics.js",
+    "Physics.d.ts",
+    "README.md"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/PeshoVurtoleta/lite-physics#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeshoVurtoleta/lite-physics.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PeshoVurtoleta/lite-physics/issues",
+    "email": "shinikchiev@yahoo.com"
+  },
+  "dependencies": {
+    "@zakkster/lite-ui": "^1.0.0",
+    "@zakkster/lite-ticker": "^1.0.0",
+    "lite-pointer-tracker": "^1.0.0",
+    "@zakkster/lite-lerp": "^1.0.0"
+  },
+  "keywords": [
+    "spring",
+    "physics",
+    "magnetic",
+    "draggable",
+    "swipe",
+    "velocity-handoff",
+    "zero-gc",
+    "animation"
+  ]
+}
