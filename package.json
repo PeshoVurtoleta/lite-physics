@@ -1,7 +1,7 @@
 {
   "name": "@zakkster/lite-physics",
   "author": "Zahary Shinikchiev <shinikchiev@yahoo.com>",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Spring-based DOM animation with velocity handoff. Magnetic hover, draggable cards, Tinder-style swipe. Shared ticker, zero rAF spam.",
   "type": "module",
   "main": "Physics.js",
