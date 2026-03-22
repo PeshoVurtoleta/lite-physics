@@ -11,6 +11,8 @@ Spring-based DOM animation with velocity handoff. Magnetic hover, draggable card
 
 **[→ Live Recipes Gallery Demo](https://cdpn.io/pen/debug/dPpzmbZ)**
 
+**[→ Live Recipes Gallery Demo vol.2](https://cdpn.io/pen/debug/XJjeJoy)**
+
 **100 springs share 1 RAF loop. Zero rAF spam. Zero GC.**
 
 ## Why lite-physics?
